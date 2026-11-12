@@ -1,0 +1,16 @@
+{
+  "name": "aula01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "diagnostico.js","scripts": {
+    "start": "node provas.js",
+    "dev": "node --watch provas.js"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dayjs": "^1.11.23"
+  }
+}
