@@ -1,0 +1,44 @@
+[2026-11-16T23:44:25.567Z] Error: Erro ao buscar livros
+    at C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\servidor-imortal.js:29:15
+    at Layer.handleRequest (C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\index.js:295:15
+    at processParams (C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\index.js:582:12)
+    at next (C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\index.js:291:5)
+    at router.handle (C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\index.js:186:3)
+[2026-11-16T23:44:26.685Z] Error: Erro ao buscar livros
+    at C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\servidor-imortal.js:29:15
+    at Layer.handleRequest (C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\index.js:295:15
+    at processParams (C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\index.js:582:12)
+    at next (C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\index.js:291:5)
+    at router.handle (C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\index.js:186:3)
+[2026-11-16T23:44:29.301Z] Error: Erro ao buscar livros
+    at C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\servidor-imortal.js:29:15
+    at Layer.handleRequest (C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\index.js:295:15
+    at processParams (C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\index.js:582:12)
+    at next (C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\index.js:291:5)
+    at router.handle (C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\index.js:186:3)
+[2026-11-16T23:44:32.585Z] Error: ENOENT: no such file or directory, open 'C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\config.json'
+    at Object.readFileSync (node:fs:624:20)
+    at C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\servidor-imortal.js:20:26
+    at Layer.handleRequest (C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\index.js:295:15
+    at processParams (C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\index.js:582:12)
+    at next (C:\Users\Instrutor SESI\Documents\aulas-backend-node\aula04\atividade\node_modules\router\index.js:291:5)
