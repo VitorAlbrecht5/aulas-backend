@@ -9,8 +9,8 @@ import {
   NotFoundException,
 } from '@nestjs/common';
 
-@Controller('livos')
-export class LivosController {
+@Controller('livros')
+export class livrosController {
   // Slide 12
   private livros = [
     {
